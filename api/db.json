@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 2
+    },
+    {
+      "title": "other stream",
+      "description": "here is another stream",
+      "id": 3
+    },
+    {
+      "title": "this is my stream",
+      "description": "I changed this!!",
+      "userId": "116779212175683362827",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "can you see me?",
+      "userId": "116779212175683362827",
+      "id": 5
+    },
+    {
+      "title": "component reuse",
+      "description": "did i changed this??",
+      "userId": "116779212175683362827",
+      "id": 6
+    }
+  ]
+}
